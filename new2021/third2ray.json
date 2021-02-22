@@ -1,6 +1,6 @@
 [
 {
-"ConfigVersion":"3.0",
+"ConfigVersion":"4.0",
 "vmess":"cronoksjsongen"
 
 },
@@ -8,7 +8,7 @@
 {
 "Name":"ThirdyV2ray SMART\/TNT\/SUN NoLoad",
 "Flag":"sg",
-"vmess":"vmess:\/\/eyJhZGQiOiJzbWFydDIudGhpcmR5LXZwbi5tbCIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy50aGlyZHktdnBuLm1sIiwiaWQiOiJiMjVjLWVlOWUtZTc0My0xM2IyLWQ5YWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiU01BUlQvVE5UL1NVTiBOb0xvYWQgTm8gUHJvbW8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+"vmess":"vmess:\/\/eyJhZGQiOiJzbWFydDEudGhpcmR5LXZwbi5tbCIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy50aGlyZHktdnBuLm1sIiwiaWQiOiJiMjVjLWVlOWUtZTc0My0xM2IyLWQ5YWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiU01BUlQvVE5UL1NVTiBOb0xvYWQgTm8gUHJvbW8gMiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
 },
 {
 "Name":"ThirdyV2ray GLOBE\/TM NoLoad",
