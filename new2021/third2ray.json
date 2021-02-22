@@ -1,6 +1,6 @@
 [
 {
-"ConfigVersion":"1.0",
+"ConfigVersion":"2.0",
 "vmess":"cronoksjsongen"
 
 },
@@ -14,5 +14,15 @@
 "Name":"ThirdyV2ray GLOBE\/TM NoLoad",
 "Flag":"sg",
 "vmess":"vmess:\/\/eyJhZGQiOiJwYWlkLnRoaXJkeS12cG4ubWwiLCJhaWQiOiI2NCIsImhvc3QiOiJ3d3cudGhpcmR5LXZwbi5tbCIsImlkIjoiYzUyOTA0LTUwYTEtN2YwNi04YzA0LTViMjg1Y2VkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IlRoaXJkeVYycmF5IFBhaWRWUE4gR0xPQkUvVE0gTm9Mb2FkIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+},
+{
+"Name":"SMART\/TNT\/SUN NoLoad NoPromo 2",
+"Flag":"sg",
+"vmess":"vmess:\/\/eyJhZGQiOiJzbWFydDEudGhpcmR5LXZwbi5tbCIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy50aGlyZHktdnBuLm1sIiwiaWQiOiJiMjVjLWVlOWUtZTc0My0xM2IyLWQ5YWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiU01BUlQvVE5UL1NVTiBOb0xvYWQgTm8gUHJvbW8gMiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+},
+{
+"Name":"SMART\/TNT\/SUN NoLoad NoPromo",
+"Flag":"sg",
+"vmess":"vmess:\/\/eyJhZGQiOiJzbWFydDIudGhpcmR5LXZwbi5tbCIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy50aGlyZHktdnBuLm1sIiwiaWQiOiJiMjVjLWVlOWUtZTc0My0xM2IyLWQ5YWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiU01BUlQvVE5UL1NVTiBOb0xvYWQgTm8gUHJvbW8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
 }
 ]
