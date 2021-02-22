@@ -1,6 +1,6 @@
 [
 {
-"ConfigVersion":"4.0",
+"ConfigVersion":"5.0",
 "vmess":"cronoksjsongen"
 
 },
@@ -19,10 +19,5 @@
 "Name":"SMART\/TNT\/SUN NoLoad NoPromo 2",
 "Flag":"sg",
 "vmess":"vmess:\/\/eyJhZGQiOiJzbWFydDEudGhpcmR5LXZwbi5tbCIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy50aGlyZHktdnBuLm1sIiwiaWQiOiJiMjVjLWVlOWUtZTc0My0xM2IyLWQ5YWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiU01BUlQvVE5UL1NVTiBOb0xvYWQgTm8gUHJvbW8gMiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
-},
-{
-"Name":"SMART\/TNT\/SUN NoLoad NoPromo",
-"Flag":"sg",
-"vmess":"vmess:\/\/eyJhZGQiOiJzbWFydDIudGhpcmR5LXZwbi5tbCIsImFpZCI6IjY0IiwiaG9zdCI6Ind3dy50aGlyZHktdnBuLm1sIiwiaWQiOiJiMjVjLWVlOWUtZTc0My0xM2IyLWQ5YWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiU01BUlQvVE5UL1NVTiBOb0xvYWQgTm8gUHJvbW8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
 }
 ]
