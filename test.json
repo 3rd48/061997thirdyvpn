@@ -1,5 +1,5 @@
 [{
-	"ConfigVersion": "1.0",
+	"ConfigVersion": "10.0",
 	"vmess": "cronoksjsongen"
 }, {
 	"Name": "premiumUSA1",
@@ -16,16 +16,16 @@
 	"vmess": "vmess://eyJhZGQiOiIzLmNvbSIsImFpZCI6IjY0IiwiaG9zdCI6ImNyYXp5Mi50aXNveS54eXoiLCJpZCI6IjMxMGJmNjY1LTA0MGMtNDAyMy1hNWJiLTA4ZGM4NTQ3MzQ5NyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e48J+HrFNHUFJFTUlVTTMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
 },
 {
- 	"Name": "GTM PAYLOAD",
+ 	"Name": "GTM PAYLOAD 1",
     "Payload": "ideal-channel.javeowner.tk"
  }, {
- 	"Name": "SUN PAYLOAD",
+ 	"Name": "SUN PAYLOAD 1",
     "Payload": "104.16.10.40"
  }, {
- 	"Name": "SMART PAYLOAD",
+ 	"Name": "SMART PAYLOAD ",
     "Payload": "104.16.10.40"
  }, {
- 	"Name": "TNT PAYLOAD",
+ 	"Name": "TNT PAYLOAD 1",
     "Payload": "104.16.10.40"
  }
 
