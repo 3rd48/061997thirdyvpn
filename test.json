@@ -1,0 +1,32 @@
+[{
+	"ConfigVersion": "1.0",
+	"vmess": "cronoksjsongen"
+}, {
+	"Name": "premiumUSA1",
+	"Flag": "us",
+	"vmess": "vmess://eyJhZGQiOiIxLmNvbSIsImFpZCI6IjY0IiwiaG9zdCI6ImNyYXp5LnRpc295Lnh5eiIsImlkIjoiODlkZDg0MGMtYmY5NC00MTZkLTg2YmItYTExMjIyOWRiYzU1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4VVNBUFJFTUlVTTEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+}, {
+	"Name": "premiumHK2",
+	"Flag": "hk",
+	"vmess": "vmess://eyJhZGQiOiIyLmNvbSIsImFpZCI6IjY0IiwiaG9zdCI6ImNyYXp5MS50aXNveS54eXoiLCJpZCI6IjM2OTMzOWRkLTc4ZTQtNDFjNC1kZTgwLWQ2MzM1ODZiNzI0OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4et8J+HsEhLUFJFTUlVTTIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+}, 
+{
+	"Name": "premiumSG3",
+	"Flag": "sg",
+	"vmess": "vmess://eyJhZGQiOiIzLmNvbSIsImFpZCI6IjY0IiwiaG9zdCI6ImNyYXp5Mi50aXNveS54eXoiLCJpZCI6IjMxMGJmNjY1LTA0MGMtNDAyMy1hNWJiLTA4ZGM4NTQ3MzQ5NyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e48J+HrFNHUFJFTUlVTTMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
+},
+{
+ 	"Name": "GTM PAYLOAD",
+    "Payload": "ideal-channel.javeowner.tk"
+ }, {
+ 	"Name": "SUN PAYLOAD",
+    "Payload": "104.16.10.40"
+ }, {
+ 	"Name": "SMART PAYLOAD",
+    "Payload": "104.16.10.40"
+ }, {
+ 	"Name": "TNT PAYLOAD",
+    "Payload": "104.16.10.40"
+ }
+
+]
