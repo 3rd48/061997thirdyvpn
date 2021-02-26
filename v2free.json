@@ -1,0 +1,21 @@
+[
+{
+"ConfigVersion":"1.0",
+"vmess":"cronoksjsongen"
+},
+{
+"Name":"ThirdyV2ray Server 1",
+"Flag":"sg",
+"vmess":"vmess:\/\/eyJhZGQiOiJ3d3cudGhpcmR5ZnJlZTJyYXkubWwiLCJhaWQiOiI2NCIsImhvc3QiOiJ3d3cudGhpcmR5ZnJlZTJyYXkubWwiLCJpZCI6IjE0NGI1ZTYzLWU1YjYtNGJkOC0xNzBkLTE5YTVkOTljNTdmOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJUaGlyZHlWMnJheSBTZXJ2ZXIgMSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ=="
+},
+{
+"Name":"ThirdyV2ray Server 2",
+"Flag":"sg",
+"vmess":"vmess:\/\/eyJhZGQiOiJ3d3cudGhpcmR5ZnJlZTJyYXkyLm1sIiwiYWlkIjoiNjQiLCJob3N0Ijoid3d3LnRoaXJkeWZyZWUycmF5Mi5tbCIsImlkIjoiMjgwNjY4YWQtNjk1Ni04Yzk5LTgyNzEtNTE3NTBlYjVmZTI1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IlRoaXJkeVYycmF5IFNlcnZlciAyIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+},
+{
+"Name":"ThirdyV2ray Server 3",
+"Flag":"sg",
+"vmess":"vmess:\/\/eyJhZGQiOiJ3d3cudGhpcmR5ZnJlZTJyYXkzLm1sIiwiYWlkIjoiNjQiLCJob3N0Ijoid3d3LnRoaXJkeWZyZWUycmF5My5tbCIsImlkIjoiNzUxYjE2YzItZGMwYS00NDU1LWY0NjgtMDZkNTYzZjRjNjAyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IlRoaXJkeVYycmF5IFNlcnZlciAzIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+}
+]
