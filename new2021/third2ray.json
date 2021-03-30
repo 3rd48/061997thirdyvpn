@@ -1,6 +1,6 @@
 [
 {
-"ConfigVersion":"1.0",
+"ConfigVersion":"2.0",
 "vmess":"cronoksjsongen"
 
 },
@@ -19,5 +19,15 @@
 "Name":"Gomo Any MB Promo NoCapp",
 "Flag":"sg",
 "vmess":"vmess:\/\/eyJhZGQiOiJwYWlkMy50aGlyZHktdnBuLm1sIiwiYWlkIjoiNjQiLCJob3N0Ijoid3d3LnRoaXJkeS12cG4ubWwiLCJpZCI6ImFmMTEyYjU2LTQ5NzMtN2M2Yi0xNTkzLTdkM2Q4OTEzNDBmMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJHb21vIEFueSBNQiBwcm9tbyBObyBDYXBwaW5nIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+},
+{
+"Name":"GLOBE\/TM No Blocking",
+"Flag":"sg",
+"vmess":"vmess:\/\/eyJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo2ODExOjQxMDEiLCJhaWQiOiI2NCIsImhvc3QiOiJ3d3cudGhpcmR5LXZwbi5tbCIsImlkIjoiYWYxMTJiNTYtNDk3My03YzZiLTE1OTMtN2QzZDg5MTM0MGYxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Ikdsb2JlL1RNIE5vIEJsb2NraW5nIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
+},
+{
+"Name":"Smart\/TNT\/SUN No Blocking",
+"Flag":"sg",
+"vmess":"vmess:\/\/eyJhZGQiOiIwMDAwOjAwMDA6MDAwMDowMDAwOjAwMDA6ZmZmZjo2ODE0OmI4NDQiLCJhaWQiOiI2NCIsImhvc3QiOiJ3d3cudGhpcmR5LXZwbi5tbCIsImlkIjoiYWYxMTJiNTYtNDk3My03YzZiLTE1OTMtN2QzZDg5MTM0MGYxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IlNtYXJ0L1ROVC9TVU4gTm8gQmxvY2tpbmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="
 }
 ]
