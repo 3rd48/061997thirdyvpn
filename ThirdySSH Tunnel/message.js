@@ -1,6 +1,6 @@
 {
   "update" : [
      {
-   "message" : "Welcome to pornhub.com 😍😍"
+   "message" : "Welcome Stay Safe Everyone"
     }]
    }
