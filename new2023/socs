@@ -5,26 +5,26 @@
          "server_name": "Singapore",
          "server_initial": "JP 1 [SSH & SSL]",
          "server_status": "ONLINE",
-         "region": "JP.png",
-         "server_ip": "159.89.207.105",
+         "region": "SG.png",
+         "server_ip": "45.76.126.175",
          "ssh_port": "22",
          "ssl_port": "443",
          "proxy_ip": "159.89.207.105",
          "proxy_port": "8080",
-         "username": "thirdy",
-         "password": "thirdy"
+         "username": "cafe-user00123",
+         "password": "WSdaWe!121"
       },{
          "server_name": "Singapore",
          "server_initial": "SG 1 [SSH & SSL]",
          "server_status": "ONLINE",
          "region": "SG.png",
-         "server_ip": "165.232.160.62",
+         "server_ip": "149.248.58.208",
          "ssh_port": "22",
          "ssl_port": "443",
-         "proxy_ip": "165.232.160.62",
+         "proxy_ip": "149.248.58.208",
          "proxy_port": "8080",
-         "username": "thirdy",
-         "password": "thirdy"
+         "username": "cafe-user00124",
+         "password": "WSdaWe!121"
       }
    ]
 }
