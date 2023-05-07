@@ -5,26 +5,26 @@
          "server_name": "SERVER 1",
          "server_initial": "[SSH & SSL]",
          "server_status": "ONLINE",
-         "region": "FR.png",
-         "server_ip": "fr-ssh.sshmax.xyz",
+         "region": "SG.png",
+         "server_ip": "159.89.207.105",
          "ssh_port": "22",
          "ssl_port": "443",
-         "proxy_ip": "fr-ssh.sshmax.xyz",
-         "proxy_port": "8080",
-         "username": "sshmax-user0012",
-         "password": "thirdy19966"
+         "proxy_ip": "159.89.207.105",
+         "proxy_port": "2222",
+         "username": "thirdy",
+         "password": "thirdy"
       },{
          "server_name": "SERVER 2",
          "server_initial": "[SSH & SSL]",
          "server_status": "ONLINE",
          "region": "SG.png",
-         "server_ip": "de-ssh.sshmax.xyz",
+         "server_ip": "165.232.160.62",
          "ssh_port": "22",
          "ssl_port": "443",
-         "proxy_ip": "de-ssh.sshmax.xyz",
-         "proxy_port": "8080",
-         "username": "sshmax-user0013",
-         "password": "thirdy19966"
+         "proxy_ip": "165.232.160.62",
+         "proxy_port": "2222",
+         "username": "thirdy",
+         "password": thirdy"
       }
    ]
 }
