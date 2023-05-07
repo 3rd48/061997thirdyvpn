@@ -5,7 +5,7 @@
          "server_name": "SERVER 1",
          "server_initial": "[SSH & SSL]",
          "server_status": "ONLINE",
-         "region": "SG.png",
+         "region": "FR.png",
          "server_ip": "fr-ssh.sshmax.xyz",
          "ssh_port": "22",
          "ssl_port": "443",
@@ -14,7 +14,7 @@
          "username": "sshmax-user0012",
          "password": "thirdy19966"
       },{
-         "server_name": SERVER 2",
+         "server_name": "SERVER 2",
          "server_initial": "[SSH & SSL]",
          "server_status": "ONLINE",
          "region": "SG.png",
