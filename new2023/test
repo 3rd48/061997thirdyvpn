@@ -1,0 +1,21 @@
+{
+  "Version": "2.0",
+  "ReleaseNotes": "",
+  "OVPNCert": "",
+  "Servers": [],
+  "Networks": [],
+  "Voucher": [
+    {
+      "Code": "THIRDYVPN2023",
+      "Amount": "50"
+    },
+    {
+      "Code": "COMEBACKISREAL",
+      "Amount": "25"
+    },
+    {
+      "Code": "FREEVPN2023",
+      "Amount": "25"
+    }
+  ]
+}
