@@ -1,30 +1,31 @@
 {
-   "server_version":"1.0.4",
-   "server_list": [
-      {
-         "server_name": "SERVER 1",
-         "server_initial": "[SSH & SSL]",
-         "server_status": "ONLINE",
-         "region": "SG.png",
-         "server_ip": "159.89.207.105",
-         "ssh_port": "22",
-         "ssl_port": "443",
-         "proxy_ip": "159.89.207.105",
-         "proxy_port": "2222",
-         "username": "thirdy",
-         "password": "thirdy"
-      },{
-         "server_name": "SERVER 2",
-         "server_initial": "[SSH & SSL]",
-         "server_status": "ONLINE",
-         "region": "SG.png",
-         "server_ip": "165.232.160.62",
-         "ssh_port": "22",
-         "ssl_port": "443",
-         "proxy_ip": "165.232.160.62",
-         "proxy_port": "2222",
-         "username": "thirdy",
-         "password": thirdy"
-      }
-   ]
+  "server_version": "2.0.0",
+  "server_list": [
+    {
+      "server_name": "Singapore",
+      "region": "SG.png",
+      "server_initial": "SG 1 [SSH & SSL]",
+      "server_ip": "159.89.207.105",
+      "ssh_port": "22",
+      "ssl_port": "443",
+      "username": "Criza3022",
+      "password": "Criza3022",
+      "proxy_ip": "159.89.207.105",
+      "proxy_port": "8000",
+      "server_status": "ONLINE"
+    },
+    {
+      "server_name": "United States",
+      "region": "US.png",
+      "server_initial": "US 1 [SSH & SSL]",
+      "server_ip": "159.89.207.105",
+      "ssh_port": "22",
+      "ssl_port": "443",
+      "username": "Criza3022",
+      "password": "Criza3022",
+      "proxy_ip": "159.89.207.105",
+      "proxy_port": "8000",
+      "server_status": "ONLINE"
+    }
+  ]
 }
